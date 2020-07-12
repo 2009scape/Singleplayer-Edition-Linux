@@ -10,6 +10,9 @@ read -r playerChoice
 
 initDB() {
   cd database
+  if [ ! -d ./data ]; then
+     mkdir ./data
+  fi
   bin/mysqld --console --skip-grant-tables --lc-messages-dir="./share/" --datadir="./data" &
   sleep 5
   echo | bin/mysql -u root -e "CREATE DATABASE server;"
