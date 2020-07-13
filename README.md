@@ -2,7 +2,7 @@
 The official singleplayer version of 2009scape.
 
 # Getting Started: Windows
-We do not currently have support for windows in the singleplayer edition, stay tuned, as we will soon!
+See  https://github.com/2009scape/Singleplayer-Edition-Windows
 
 # Getting Started: Linux
 
