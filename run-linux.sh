@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Prompt user with options on what to do
+export LD_LIBRARY_PATH=$(pwd)/data/libs
 echo "What would you like to do? (Type a number)"
 echo "1. Run the game."
 echo "2. Initialize the database. (Only has to be done once!)"
