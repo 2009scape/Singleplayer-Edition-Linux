@@ -1,0 +1,4 @@
+# exclude db and test players
+database/data/
+data/logs/trade/*.log
+data/players/
