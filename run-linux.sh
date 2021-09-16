@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Prompt user with options on what to do
-export LD_LIBRARY_PATH=$(pwd)/data/libs
+export LD_LIBRARY_PATH=$(pwd)/database/lib
 echo "What would you like to do? (Type a number)"
 echo "1. Run the game."
 echo "2. Initialize the database. (Only has to be done once!)"
@@ -16,9 +16,7 @@ initDB() {
   fi
   bin/mysqld --console --skip-grant-tables --lc-messages-dir="./share/" --datadir="./data" &
   sleep 5
-  echo | bin/mysql -u root -e "CREATE DATABASE server;"
   echo | bin/mysql -u root -e "CREATE DATABASE global;"
-  echo | bin/mysql -u root server < ../data/server.sql
   echo | bin/mysql -u root global < ../data/global.sql
   sleep 10
   killall mysqld
