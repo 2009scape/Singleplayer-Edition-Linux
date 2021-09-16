@@ -2656,8 +2656,8 @@
   <offer>
     <id>379</id>
     <value>268</value>
-    <uniqueTrades>0</uniqueTrades>
-    <totalValue>0</totalValue>
+    <uniqueTrades>173</uniqueTrades>
+    <totalValue>57782</totalValue>
     <lastUpdate>0</lastUpdate>
   </offer>
   <offer>
@@ -11350,8 +11350,8 @@
   <offer>
     <id>1621</id>
     <value>50</value>
-    <uniqueTrades>1</uniqueTrades>
-    <totalValue>52</totalValue>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
     <lastUpdate>0</lastUpdate>
   </offer>
   <offer>
@@ -18000,13 +18000,6 @@
   <offer>
     <id>2571</id>
     <value>3525</value>
-    <uniqueTrades>0</uniqueTrades>
-    <totalValue>0</totalValue>
-    <lastUpdate>0</lastUpdate>
-  </offer>
-  <offer>
-    <id>2572</id>
-    <value>17625</value>
     <uniqueTrades>0</uniqueTrades>
     <totalValue>0</totalValue>
     <lastUpdate>0</lastUpdate>
@@ -29060,8 +29053,8 @@
   <offer>
     <id>4151</id>
     <value>120001</value>
-    <uniqueTrades>2</uniqueTrades>
-    <totalValue>246002</totalValue>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
     <lastUpdate>0</lastUpdate>
   </offer>
   <offer>
@@ -102427,6 +102420,76 @@
   <offer>
     <id>14637</id>
     <value>650</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14638</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14639</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14640</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14641</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14642</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14643</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14644</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14645</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14646</id>
+    <value>17625</value>
+    <uniqueTrades>0</uniqueTrades>
+    <totalValue>0</totalValue>
+    <lastUpdate>0</lastUpdate>
+  </offer>
+  <offer>
+    <id>14647</id>
+    <value>17625</value>
     <uniqueTrades>0</uniqueTrades>
     <totalValue>0</totalValue>
     <lastUpdate>0</lastUpdate>

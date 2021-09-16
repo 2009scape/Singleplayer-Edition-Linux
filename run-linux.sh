@@ -48,7 +48,7 @@ sleep 5
 cd ..
 java -jar ms.jar &
 sleep 1
-java -cp server.jar core.Server default.xml &
+java -jar server.jar &
 sleep 20
 java -jar client.jar
 killall java
