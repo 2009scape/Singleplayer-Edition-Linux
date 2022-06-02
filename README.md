@@ -1,6 +1,8 @@
 # NOTE: Linux Singleplayer is Maintained by Volunteers.
 This subproject is maintained exclusively by volunteers, and will not receive official support from the core 2009scape team. If you do have issues, however, feel free to make an issue in this repository and hopefully a volunteer will be able to help you out :). 
 
+# ATTENTION: This project has been moved to https://gitlab.com/2009scape/singleplayer/linux
+
 
 # Getting Started: Windows
 See  https://github.com/2009scape/Singleplayer-Edition-Windows
